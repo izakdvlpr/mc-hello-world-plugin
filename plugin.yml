@@ -1,0 +1,6 @@
+name: HelloWorldPlugin
+main: com.izakdvlpr.helloworld.Main
+author: izakdvlpr
+version: 1.0
+commands:
+  helloworld:
